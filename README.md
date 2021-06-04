@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <a href="https://github.com/micheledurante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=micheledurante&show_icons=true&count_private=true&line_height=33&theme=graywhite" alt="Michele Durante's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=micheledurante&show_icons=true&count_private=true&line_height=33&theme=buefy" alt="Michele Durante's GitHub Stats" />
 </a>
 
 <a href="https://github.com/micheledurante">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheledurante&langs_count=4&line_height=35&theme=graywhite" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=micheledurante&langs_count=4&line_height=35&theme=buefy" />
 </a>
